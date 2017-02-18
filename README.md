@@ -3,6 +3,8 @@ My work during Summer 2016 at North Carolina A&T State University as NSF Researc
 
 This GUI program allows users to retrieve synthesized higher quality image from IR Camera. This could be helpful in detecting hard-to-find defects inside a material.
 
+![alt text](https://raw.githubusercontent.com/dat-ai/tsr/master/docs/interface.JPG)
+
 
 ### Dependencies
 ----------------
